@@ -5,19 +5,22 @@
 			"nama_kantor": "Gudang Transit Pekalongan",
 			"nama_admin": "Januarto",
 			"alamat_kantor": "Jl. Karangreja Tengah No.12, Pekalongan",
-			"nomor_kantor": "0821-2121-2121"
+			"nomor_kantor": "0821-2121-2121",
+			"password" : "GudangTransitPKL"
 		},
 		{
 			"nama_kantor": "Gudang Transit Purbalingga",
 			"nama_admin": "Nadut",
 			"alamat_kantor": "Jl. Karangreja Tengah No.12, Purbalingga",
-			"nomor_kantor": "0821-2121-2121"
+			"nomor_kantor": "0821-2121-2121",
+			"password" : "GudangTransitPBG"
 		},
 		{
 			"nama_kantor": "Gudang Transit Purwokerto",
 			"nama_admin": "Coki",
 			"alamat_kantor": "Jl. Karangreja Tengah No.12, Purwokerto",
-			"nomor_kantor": "0821-2121-2121"
+			"nomor_kantor": "0821-2121-2121",
+			"password" : "GudangTransitPWT"
 		}
 	]
 }
