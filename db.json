@@ -2,6 +2,7 @@
 
 	"users" : [
 		{
+			"id" : 1,
 			"nama_kantor": "Gudang Transit Pekalongan",
 			"nama_admin": "Januarto",
 			"alamat_kantor": "Jl. Karangreja Tengah No.12, Pekalongan",
@@ -9,6 +10,7 @@
 			"password" : "GudangTransitPKL"
 		},
 		{
+			"id" : 2,
 			"nama_kantor": "Gudang Transit Purbalingga",
 			"nama_admin": "Nadut",
 			"alamat_kantor": "Jl. Karangreja Tengah No.12, Purbalingga",
@@ -16,6 +18,7 @@
 			"password" : "GudangTransitPBG"
 		},
 		{
+			"id" : 3,
 			"nama_kantor": "Gudang Transit Purwokerto",
 			"nama_admin": "Coki",
 			"alamat_kantor": "Jl. Karangreja Tengah No.12, Purwokerto",
